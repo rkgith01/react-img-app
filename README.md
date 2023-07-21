@@ -1,4 +1,4 @@
-# Image Gallery App - Read Me
+# - Read Me - Image Gallery App 
 
 Welcome to the Image Gallery App! This React web application allows you to explore a collection of stunning images from Unsplash. 
 You'll find all the information you need to get started and set up the project in your development environment.
